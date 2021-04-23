@@ -1,0 +1,2 @@
+# Even_Or_Odd
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/426debce94c44f02bdfa3e66b4cd6df9)](https://app.codacy.com/gh/JxRibeiro/Even_Or_Odd?utm_source=github.com&utm_medium=referral&utm_content=JxRibeiro/Even_Or_Odd&utm_campaign=Badge_Grade_Settings)
